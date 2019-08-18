@@ -18,6 +18,7 @@ public class GGGGGG {
         // TODO code application logic here
         System.out.println("gggggg.GGGGGG.main()");
         System.out.println("hola - Cambio Vanesa");
+        System.err.println("dzlfnaslmcszcnlasncaoskclaskclakscaskcmaskmasdkxm");
     }
     
 }
