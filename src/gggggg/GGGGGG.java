@@ -20,6 +20,8 @@ public class GGGGGG {
         // TODO code application logic here
         System.out.println("gggggg.GGGGGG.main()");
         JOptionPane.showMessageDialog(null, "ksdjfnoña");
+         System.out.println("gggggg.GGGGGG.main()");
+        JOptionPane.showMessageDialog(null, "ksdjfnoña");
     }
     
 }
