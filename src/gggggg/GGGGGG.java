@@ -5,6 +5,8 @@
  */
 package gggggg;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Usuario
@@ -17,8 +19,7 @@ public class GGGGGG {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("gggggg.GGGGGG.main()");
-        System.out.println("hola - Cambio Vanesa");
-        System.err.println("dzlfnaslmcszcnlasncaoskclaskclakscaskcmaskmasdkxm");
+        JOptionPane.showMessageDialog(null, "ksdjfnoña");
     }
     
 }
